@@ -1,4 +1,4 @@
-<img width="302" height="329" alt="image" src="https://github.com/user-attachments/assets/b532c178-2a3f-46ac-804a-9a8f423903fd" /># tender-ai-mvp
+# tender-ai-mvp
 
 > 面向投标场景的全流程 AI 辅助决策工具
 
@@ -41,28 +41,7 @@
 
 
 ### 2.2 系统架构
-用户入口
-│
-├── 四阶段智能分流（规则引导）
-│ ├── 文件格式诊断 → 规则匹配 → 平台指引
-│ ├── 投标前置准备 → 材料清单 → CA证书
-│ └── 平台操作指引 → 关键词匹配 → 步骤输出
-│
-├── 手动比对模式
-│ ├── 多公司上传
-│ ├── 缓存机制（首次慢 → 秒出）
-│ └── 结构化比对报告
-│
-├── Agent智能模式
-│ ├── 意图识别 + 路由分发
-│ ├── 自动分析（extract → analyze → reflect）
-│ ├── 多轮对话 + 上下文记忆
-│ └── 工具调用（官方指引 / 诊断追问）
-│
-└── 持久化层
-├── SQLite历史记录（前后端分离）
-└── 日志系统（全链路审计）
-
+<img width="302" height="329" alt="image" src="https://github.com/user-attachments/assets/b532c178-2a3f-46ac-804a-9a8f423903fd" />
 
 
 ---
