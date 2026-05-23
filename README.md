@@ -162,11 +162,13 @@
 ### 日志截图
 
 **1. 全流程链路追踪**
-![完整日志](docs/images/log-demo-2.png)
+![日志截图1](docs/images/log-demo-2.png)
+
 *日志记录从 Agent 启动、标书提取、多公司对比到风险警告的全过程。*
 
 **2. 缓存与容灾机制细节**
-![缓存与判定日志](docs/images/log-demo-3.png)
+![日志截图2](docs/images/log-demo-3.png)
+
 *日志细节：①缓存写入闭环、②资质达标/缺失对比、③废标条件判定。*
 
 ### 数据库截图
