@@ -41,7 +41,7 @@
 
 
 ### 2.2 系统架构
-<img width="302" height="329" alt="image" src="https://github.com/user-attachments/assets/b532c178-2a3f-46ac-804a-9a8f423903fd" />
+![入口设计](docs/images/enter.png)
 
 
 ---
